@@ -1,2 +1,1 @@
-# RDT_Client
-RDT Client Addon fro HomeAssistant
+# Home assistant add-on: RDT Client
