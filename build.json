@@ -1,9 +1,9 @@
 {
   "build_from": {
-    "aarch64": "lscr.io/linuxserver/qbittorrent:arm64v8-latest",
-    "amd64": "lscr.io/linuxserver/qbittorrent:amd64-latest"
+    "aarch64": "ghcr.io/rogerfar/rdtclient:sha-a366328@sha256:1194403c67fe82aac01faa65f441ef0066b260b7c1ffaf080ce56ba93cb14c3a",
+    "amd64": "ghcr.io/rogerfar/rdtclient:sha-a366328@sha256:854f8f089f6139612f13b43bb2f2313cb3e34ae4532a6231ce2b3cf308b08f1e"
   },
   "codenotary": {
-    "signer": "alexandrep.github@gmail.com"
+    "signer": "dk12651.github@gmail.com"
   }
 }
