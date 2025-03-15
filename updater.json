@@ -1,9 +1,9 @@
 {
   "github_fulltag": "false",
   "last_update": "21-02-2025",
-  "repository": "alexbelgium/hassio-addons",
-  "slug": "qbittorrent",
+  "repository": "dk12651/hassio-addons",
+  "slug": "RDT_Client",
   "source": "github",
-  "upstream_repo": "linuxserver/docker-qbittorrent",
-  "upstream_version": "5.0.4"
+  "upstream_repo": "github/rogerfar/rdt-client",
+  "upstream_version": "2.0.102"
 }
