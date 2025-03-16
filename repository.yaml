@@ -2,10 +2,3 @@ name: HA Add-ons by dk12651
 udev: true
 url: https://github.com/dk12651/homeassistant_addons
 maintainer: dk12651
-github_fulltag: 'false'
-last_update: 16-03-2025
-repository: dk12651/homeassistant_addons
-slug: RDT Client
-source: github
-upstream_repo: https://github.com/rogerfar/rdt-client
-upstream_version: 2.0.102

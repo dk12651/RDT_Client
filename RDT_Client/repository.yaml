@@ -1,4 +1,0 @@
-# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: dk12651 Home Assistant add-on repository
-url: 'https://github.com/dk12651/RDT_Client'
-maintainer: dk12651 <dk12651@gmail.com>
