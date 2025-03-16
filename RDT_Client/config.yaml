@@ -127,7 +127,7 @@ schema:
   silent: bool?
   ssl: bool
   whitelist: str?
-slug: RDT Client
+slug: RDT_Client
 udev: true
 url: https://github.com/dk12651/homeassistant_addons
 version: 0.0.1
