@@ -1,4 +1,4 @@
-# Home assistant add-on: alexbelgium
+# Home assistant add-ons by: dk12651
 
 <!-- markdownlint-disable MD033 -->
 
